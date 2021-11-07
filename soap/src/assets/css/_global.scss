@@ -1,0 +1,61 @@
+:root, :root.light {
+    --whitesmoke:  hsl(60,8,95);
+    --steel-blue: rgb(79,139,160);
+    --dimgray : rgb(97,97,97);
+    --dimgray: rgb(94,94,94);
+    --white : #fffff;
+}
+/* # RESET CSS */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, div {
+  display: block; }
+body {
+
+}
+ol, ul {
+  list-style: none; }
+blockquote, q {
+  quotes: none; }
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/* Links
+===========================================================================
+*/
+p a, #footer-nav a { color: #000; text-decoration: none; border-bottom: 0px solid #000; padding-bottom: 3px;}
+p a:hover, #footer-nav a:hover { color: #000; text-decoration: none; border-bottom: 1px solid #816948; padding-bottom: 2px;}
+a:focus { outline: thin dotted; }
+a:hover, a:active { outline: 0; }
+/* List
+===========================================================================
+*/
+ul { list-style: none outside; }
+ol { list-style: decimal; }
+ol, ul.square, ul.circle, ul.disc { margin-left: 30px; }
+ul.square { list-style: square outside; }
+ul.circle { list-style: circle outside; }
+ul.disc { list-style: disc outside; }
+li { line-height: 20px;}
+ul.large li { line-height: 20px; }
+li p { line-height: 20px; }
+
+/* List
+===========================================================================
+*/

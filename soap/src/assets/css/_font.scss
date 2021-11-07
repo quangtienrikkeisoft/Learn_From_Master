@@ -1,0 +1,126 @@
+@font-face {
+    font-family:proxima-nova;
+    src:url(https://use.typekit.net/af/efe4a5/00000000000000007735e609/30/l?subset_id=2&fvd=n4&v=3) format("woff2"),
+    url(https://use.typekit.net/af/efe4a5/00000000000000007735e609/30/d?subset_id=2&fvd=n4&v=3) format("woff"),
+    url(https://use.typekit.net/af/efe4a5/00000000000000007735e609/30/a?subset_id=2&fvd=n4&v=3) format("opentype");
+    font-weight:400;
+    font-style:normal;
+    font-display:auto;
+   }
+   @font-face {
+    font-family:proxima-nova;
+    src:url(https://use.typekit.net/af/23e139/00000000000000007735e605/30/l?subset_id=2&fvd=n5&v=3) format("woff2"),
+    url(https://use.typekit.net/af/23e139/00000000000000007735e605/30/d?subset_id=2&fvd=n5&v=3) format("woff"),
+    url(https://use.typekit.net/af/23e139/00000000000000007735e605/30/a?subset_id=2&fvd=n5&v=3) format("opentype");
+    font-weight:500;
+    font-style:normal;
+    font-display:auto;
+   }
+   @font-face {
+    font-family:proxima-nova;
+    src:url(https://use.typekit.net/af/78aca8/00000000000000007735e60d/30/l?subset_id=2&fvd=n6&v=3) format("woff2"),
+    url(https://use.typekit.net/af/78aca8/00000000000000007735e60d/30/d?subset_id=2&fvd=n6&v=3) format("woff"),
+    url(https://use.typekit.net/af/78aca8/00000000000000007735e60d/30/a?subset_id=2&fvd=n6&v=3) format("opentype");
+    font-weight:600;
+    font-style:normal;
+    font-display:auto;
+   }
+   @font-face {
+    font-family:proxima-nova;
+    src:url(https://use.typekit.net/af/2555e1/00000000000000007735e603/30/l?subset_id=2&fvd=n7&v=3) format("woff2"),
+    url(https://use.typekit.net/af/2555e1/00000000000000007735e603/30/d?subset_id=2&fvd=n7&v=3) format("woff"),
+    url(https://use.typekit.net/af/2555e1/00000000000000007735e603/30/a?subset_id=2&fvd=n7&v=3) format("opentype");
+    font-weight:700;
+    font-style:normal;
+    font-display:auto;
+   }
+   @font-face {
+    font-family:futura-pt;
+    src:url(https://use.typekit.net/af/ae4f6c/000000000000000000010096/27/l?subset_id=2&fvd=n3&v=3) format("woff2"),
+    url(https://use.typekit.net/af/ae4f6c/000000000000000000010096/27/d?subset_id=2&fvd=n3&v=3) format("woff"),
+    url(https://use.typekit.net/af/ae4f6c/000000000000000000010096/27/a?subset_id=2&fvd=n3&v=3) format("opentype");
+    font-weight:300;
+    font-style:normal;
+    font-display:auto;
+   }
+   @font-face {
+    font-family:futura-pt;
+    src:url(https://use.typekit.net/af/9b05f3/000000000000000000013365/27/l?subset_id=2&fvd=n4&v=3) format("woff2"),
+    url(https://use.typekit.net/af/9b05f3/000000000000000000013365/27/d?subset_id=2&fvd=n4&v=3) format("woff"),
+    url(https://use.typekit.net/af/9b05f3/000000000000000000013365/27/a?subset_id=2&fvd=n4&v=3) format("opentype");
+    font-weight:400;
+    font-style:normal;
+    font-display:auto;
+   }
+   @font-face {
+    font-family:futura-pt;
+    src:url(https://use.typekit.net/af/2cd6bf/00000000000000000001008f/27/l?subset_id=2&fvd=n5&v=3) format("woff2"),
+    url(https://use.typekit.net/af/2cd6bf/00000000000000000001008f/27/d?subset_id=2&fvd=n5&v=3) format("woff"),
+    url(https://use.typekit.net/af/2cd6bf/00000000000000000001008f/27/a?subset_id=2&fvd=n5&v=3) format("opentype");
+    font-weight:500;
+    font-style:normal;
+    font-display:auto;
+   }
+   @font-face {
+    font-family:futura-pt;
+    src:url(https://use.typekit.net/af/309dfe/000000000000000000010091/27/l?subset_id=2&fvd=n7&v=3) format("woff2"),
+    url(https://use.typekit.net/af/309dfe/000000000000000000010091/27/d?subset_id=2&fvd=n7&v=3) format("woff"),
+    url(https://use.typekit.net/af/309dfe/000000000000000000010091/27/a?subset_id=2&fvd=n7&v=3) format("opentype");
+    font-weight:700;
+    font-style:normal;
+    font-display:auto;
+   }
+   @font-face {
+    font-family:futura-pt;
+    src:url(https://use.typekit.net/af/849347/000000000000000000010093/27/l?subset_id=2&fvd=i3&v=3) format("woff2"),
+    url(https://use.typekit.net/af/849347/000000000000000000010093/27/d?subset_id=2&fvd=i3&v=3) format("woff"),
+    url(https://use.typekit.net/af/849347/000000000000000000010093/27/a?subset_id=2&fvd=i3&v=3) format("opentype");
+    font-weight:300;
+    font-style:italic;
+    font-display:auto;
+   }
+   @font-face {
+    font-family:futura-pt;
+    src:url(https://use.typekit.net/af/cf3e4e/000000000000000000010095/27/l?subset_id=2&fvd=i4&v=3) format("woff2"),
+    url(https://use.typekit.net/af/cf3e4e/000000000000000000010095/27/d?subset_id=2&fvd=i4&v=3) format("woff"),
+    url(https://use.typekit.net/af/cf3e4e/000000000000000000010095/27/a?subset_id=2&fvd=i4&v=3) format("opentype");
+    font-weight:400;
+    font-style:italic;
+    font-display:auto;
+   }
+   @font-face {
+    font-family:futura-pt;
+    src:url(https://use.typekit.net/af/1eb35a/000000000000000000010090/27/l?subset_id=2&fvd=i5&v=3) format("woff2"),
+    url(https://use.typekit.net/af/1eb35a/000000000000000000010090/27/d?subset_id=2&fvd=i5&v=3) format("woff"),
+    url(https://use.typekit.net/af/1eb35a/000000000000000000010090/27/a?subset_id=2&fvd=i5&v=3) format("opentype");
+    font-weight:500;
+    font-style:italic;
+    font-display:auto;
+   }
+   @font-face {
+    font-family:futura-pt;
+    src:url(https://use.typekit.net/af/eb729a/000000000000000000010092/27/l?subset_id=2&fvd=i7&v=3) format("woff2"),
+    url(https://use.typekit.net/af/eb729a/000000000000000000010092/27/d?subset_id=2&fvd=i7&v=3) format("woff"),
+    url(https://use.typekit.net/af/eb729a/000000000000000000010092/27/a?subset_id=2&fvd=i7&v=3) format("opentype");
+    font-weight:700;
+    font-style:italic;
+    font-display:auto;
+   }
+   @font-face {
+    font-family:brandon-grotesque;
+    src:url(https://use.typekit.net/af/1281a1/000000000000000077359ded/30/l?subset_id=2&fvd=n3&v=3) format("woff2"),
+    url(https://use.typekit.net/af/1281a1/000000000000000077359ded/30/d?subset_id=2&fvd=n3&v=3) format("woff"),
+    url(https://use.typekit.net/af/1281a1/000000000000000077359ded/30/a?subset_id=2&fvd=n3&v=3) format("opentype");
+    font-weight:300;
+    font-style:normal;
+    font-display:auto;
+   }
+   @font-face {
+    font-family:brandon-grotesque;
+    src:url(https://use.typekit.net/af/1da05b/0000000000000000000132df/27/l?subset_id=2&fvd=n4&v=3) format("woff2"),
+    url(https://use.typekit.net/af/1da05b/0000000000000000000132df/27/d?subset_id=2&fvd=n4&v=3) format("woff"),
+    url(https://use.typekit.net/af/1da05b/0000000000000000000132df/27/a?subset_id=2&fvd=n4&v=3) format("opentype");
+    font-weight:400;
+    font-style:normal;
+    font-display:auto;
+   }
